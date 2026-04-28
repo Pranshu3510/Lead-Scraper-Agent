@@ -1,0 +1,11 @@
+{
+  "target_industries": ["Fintech", "Legal Tech", "Industrial Manufacturing"],
+  "target_locations": ["NYC", "London", "Singapore", "Mumbai"],
+  "target_titles": ["CEO", "CTO", "COO", "VP of Operations", "Lead Architect"],
+  "company_size_min": 50,
+  "company_size_max": 500,
+  "daily_quota": 200,
+  "batch_size": 10,
+  "groq_model": "llama-3.3-70b-versatile",
+  "request_delay_seconds": 2
+}

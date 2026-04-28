@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Database
+*.db
+*.db-journal
+*.db-wal
+
+# Data & Exports
+exports/
+*.csv
+*.xlsx
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
